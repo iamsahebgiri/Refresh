@@ -15,9 +15,9 @@ Feel free to clone and develop anything better than me.
 
 ## Final Screenshots
 
-![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg | width=100)
-![Jokes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134601.jpg | width=100)
-![Bored](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134608.jpg | width=100)
-![Picsum](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134724.jpg | width=100)
-![Trivia](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134731.jpg | width=100)
-![Quotes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134755.jpg | width=100)
+![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg)
+![Jokes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134601.jpg)
+![Bored](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134608.jpg)
+![Picsum](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134724.jpg)
+![Trivia](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134731.jpg)
+![Quotes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134755.jpg)
