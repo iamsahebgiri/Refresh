@@ -15,9 +15,9 @@ Feel free to clone and develop anything better than me.
 
 ## Final Screenshots
 
-![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg)
-![Jokes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134601.jpg)
-![Bored](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134608.jpg)
-![Picsum](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134724.jpg)
-![Trivia](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134731.jpg)
-![Quotes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134755.jpg)
+![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg =100x)
+![Jokes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134601.jpg =100x)
+![Bored](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134608.jpg =100x)
+![Picsum](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134724.jpg =100x)
+![Trivia](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134731.jpg =100x)
+![Quotes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134755.jpg =100x)
