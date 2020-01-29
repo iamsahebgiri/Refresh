@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9400D3</color>
+    <color name="colorPrimaryDark">#4B0082</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="brandPurple">#9400D3</color>
+
+    <color name="jokeGradientStart">#02AAB0</color>
+    <color name="jokeGradientEnd">#00CDAC</color>
+
+    <color name="boredGradientStart">#536976</color>
+    <color name="boredGradientEnd">#292E49</color>
+
+    <color name="triviaGradientStart">#4E54C8</color>
+    <color name="triviaGradientEnd">#8F94FB</color>
+
+    <color name="quotesGradientStart">#E43A15</color>
+    <color name="quotesGradientEnd">#E65245</color>
+
+    <color name="picsumGradientStart">#D70652</color>
+    <color name="picsumGradientEnd">#FF025E</color>
+
+    <color name="namoGradientStart">#00B4DB</color>
+    <color name="namoGradientEnd">#0083B0</color>
+</resources>

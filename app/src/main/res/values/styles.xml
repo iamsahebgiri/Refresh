@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="jokeTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/jokeGradientStart</item>
+        <item name="colorPrimaryDark">@color/jokeGradientEnd</item>
+        <item name="colorAccent">@color/jokeGradientEnd</item>
+    </style>
+
+    <style name="boredTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/boredGradientStart</item>
+        <item name="colorPrimaryDark">@color/boredGradientEnd</item>
+        <item name="colorAccent">@color/boredGradientEnd</item>
+    </style>
+
+    <style name="triviaTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/triviaGradientEnd</item>
+        <item name="colorPrimaryDark">@color/triviaGradientStart</item>
+        <item name="colorAccent">@color/triviaGradientStart</item>
+    </style>
+
+    <style name="quotesTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/quotesGradientStart</item>
+        <item name="colorPrimaryDark">@color/quotesGradientEnd</item>
+        <item name="colorAccent">@color/quotesGradientEnd</item>
+    </style>
+
+    <style name="picsumTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/picsumGradientStart</item>
+        <item name="colorPrimaryDark">@color/picsumGradientEnd</item>
+        <item name="colorAccent">@color/picsumGradientEnd</item>
+    </style>
+
+    <style name="namoTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/namoGradientStart</item>
+        <item name="colorPrimaryDark">@color/namoGradientEnd</item>
+        <item name="colorAccent">@color/namoGradientEnd</item>
+    </style>
+</resources>

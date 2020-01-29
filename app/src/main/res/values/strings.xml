@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Refresh</string>
+    <string name="remaining">Remaining time</string>
+    <string name="joke">Jokes</string>
+    <string name="bored">Bored</string>
+    <string name="picsum">Picsum</string>
+    <string name="trivia">Trivia</string>
+    <string name="namo">NaMo</string>
+    <string name="quotes">Quotes</string>
+    <string name="sample_joke">3 SQL statements walk into a NoSQL bar. Soon, they walk out,</string>
+    <string name="delivery">They couldn\'t find a table.</string>
+    <string name="todo">TODO</string>
+</resources>
