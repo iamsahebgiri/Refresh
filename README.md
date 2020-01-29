@@ -15,7 +15,7 @@ Feel free to clone and develop anything better than me.
 
 ## Final Screenshots
 
-![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg =250x)
+![Homescreen](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134550.jpg){ width=50% }
 ![Jokes](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134601.jpg =100x)
 ![Bored](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134608.jpg =100x)
 ![Picsum](https://github.com/iamsahebgiri/Refresh/blob/master/Screenshots/Screenshot_20200129_134724.jpg =100x)
